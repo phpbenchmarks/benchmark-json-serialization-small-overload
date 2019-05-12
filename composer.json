@@ -1,0 +1,14 @@
+{
+    "name": "phpbenchmarks/benchmark-json-serialization-small-overload",
+    "description": "Data for serialization to a small JSON benchmark on phpbenchmarks.com.",
+    "license": "proprietary",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "PhpBenchmarks\\BenchmarkJsonSerializationSmallOverload\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
